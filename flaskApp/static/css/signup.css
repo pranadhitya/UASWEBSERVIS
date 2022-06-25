@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.signup{
+    height: max-content;
+    width: 100%;
+    background-color: rgb(82, 82, 82);
+    display: flex;
+    align-items: center;
+    height: max-content;
+}
+.signup form{
+    
+}
+.signup form, h5{
+    padding: 20px;
+}

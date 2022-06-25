@@ -1,0 +1,12 @@
+@media (max-width: 810px) {
+    body {
+      background-color: lightblue;
+    }
+   .img-holder .bg .mx-auto{
+    /* display: none; */
+    width: 550px;
+   }
+   .form-holder form{
+     padding: 0;
+   }
+}

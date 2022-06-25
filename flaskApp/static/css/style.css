@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.form-holder{
+  padding: 0;
+  margin: 0;
+}
+
+.img-holder .bg img{
+  width: 600px;
+}
+.form-holder form{
+  padding-right: 20px;
+  border: 0px;
+}
+.form-holder .form-control{
+  border: 0px;
+}
